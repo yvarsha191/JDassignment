@@ -1,1 +1,1 @@
-Hello everyone!! In this assignment, I have used web scrapping techniques using Beautifulsoup, pandas and numpy to extract data from web. O jave tracked and retrieved product details from Amazon website for a particular category. Please check it out !! Thank you.
+Hello everyone!! In this assignment, I have used web scrapping techniques using Beautifulsoup, pandas and numpy to extract data from web. I have tracked and retrieved product details from Amazon website for a particular category. Please feel free to check it. !! Thank you.
